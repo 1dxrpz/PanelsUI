@@ -1,4 +1,5 @@
-![alt text](images/banner.jpg)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![banner](images/banner.jpg)
 
 # Panels UI
 ### creative and simple bootstrap for creating panel based menu and dashboards
